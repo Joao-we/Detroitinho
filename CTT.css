@@ -290,7 +290,7 @@ footer {
 
   div {
     display: flex;
-    max-width: 450px;
+    max-width: 500px;
     justify-content: center;
     align-items: center;
     width: 90%;
@@ -338,6 +338,7 @@ footer {
   }
   
 }
+
 
 
 
