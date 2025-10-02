@@ -283,7 +283,7 @@ footer {
     display: block;          
     width: 90%;
     text-align: center;      
-    font-size: 8px;          
+    font-size: 5px;          
     padding: 8px 0;
   }
 
@@ -323,4 +323,5 @@ footer {
     align-items: center;
     justify-content: center;
   }
+
 }
