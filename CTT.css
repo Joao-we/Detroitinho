@@ -324,7 +324,20 @@ footer {
     justify-content: center;
   }
 
+  .whats img {
+    width 25px;
+  }
+  .agen img {
+    width 25px;
+  }
+  local img {
+    width 25px;
+  }
+  instagram {
+    width 25px
+  }
 }
+
 
 
 
