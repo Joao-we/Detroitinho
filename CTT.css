@@ -298,40 +298,40 @@ footer {
   }
 
   .agen span {
-    font-size: 21px;
+    font-size: 18px;
     align-items: center;
     justify-content: center;
   }
 
   .instagram span {
 
-    font-size: 21px;
+    font-size: 18px;
     align-items: center;
     justify-content: center;
   }
 
   .local span {
-    font-size: 21px;
+    font-size: 18px;
     align-items: center;
     justify-content: center;
   }
 
   .whats span {
-    font-size: 21px;
+    font-size: 18px;
     align-items: center;
     justify-content: center;
   }
   .whats img {
-    width: 20px;
+    width: 15px;
   }
   .agen img {
-    width: 20px;
+    width: 15px;
   }
   .local img {
-    width: 20px;
+    width: 17px;
   }
   .instagram img {
-    width: 20px
+    width: 15px
   }
   footer {
     font-size: 14px;
@@ -339,6 +339,7 @@ footer {
   }
   
 }
+
 
 
 
