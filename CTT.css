@@ -336,10 +336,12 @@ footer {
   }
   footer {
     font-size: 14px;
-    width: auto;
+    padding: 18px;
+    text-align: center;
   }
   
 }
+
 
 
 
