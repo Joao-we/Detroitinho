@@ -294,32 +294,32 @@ footer {
     justify-content: center;
     align-items: center;
     width: 90%;
-    margin: 20px auto;
+    margin: 40px auto;
   }
 
   .agen span {
-    font-size: 15px;
+    font-size: 25px;
     align-items: center;
     justify-content: center;
   }
 
   .instagram span {
 
-    font-size: 15px;
+    font-size: 25px;
     align-items: center;
     justify-content: center;
   }
 
   .local span {
 
-    font-size: 15px;
+    font-size: 25px;
     align-items: center;
     justify-content: center;
   }
 
   .whats span {
 
-    font-size: 15px;
+    font-size: 25px;
     align-items: center;
     justify-content: center;
   }
@@ -338,6 +338,7 @@ footer {
   }
   
 }
+
 
 
 
