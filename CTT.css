@@ -262,7 +262,7 @@ footer {
   }
 }
 
-@media (max-width: 467px) {
+@media (max-width: 468px) {
   header {
     display: flex;
     align-items: center;
@@ -339,6 +339,7 @@ footer {
   }
   
 }
+
 
 
 
