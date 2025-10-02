@@ -294,36 +294,33 @@ footer {
     justify-content: center;
     align-items: center;
     width: 90%;
-    margin: 40px auto;
+    margin: 20px auto;
   }
 
   .agen span {
-    font-size: 25px;
+    font-size: 21px;
     align-items: center;
     justify-content: center;
   }
 
   .instagram span {
 
-    font-size: 25px;
+    font-size: 21px;
     align-items: center;
     justify-content: center;
   }
 
   .local span {
-
-    font-size: 25px;
+    font-size: 21px;
     align-items: center;
     justify-content: center;
   }
 
   .whats span {
-
-    font-size: 25px;
+    font-size: 21px;
     align-items: center;
     justify-content: center;
   }
-
   .whats img {
     width: 20px;
   }
@@ -336,7 +333,13 @@ footer {
   .instagram img {
     width: 20px
   }
+  footer {
+    font-size: 14px;
+    width: auto;
+  }
+  
 }
+
 
 
 
